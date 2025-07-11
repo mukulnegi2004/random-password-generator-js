@@ -48,7 +48,7 @@ random-password-generator-js/
 
 ## 🚀 Live Demo
 
-[Click here to view the live project](https://mukulnegi2004.github.io/random-password-generator-js/)
+[Click here to view the live project]( https://mukulnegi2004.github.io/random-password-generator-js/)
 
 ---
 
