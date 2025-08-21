@@ -25,7 +25,7 @@ It generates strong passwords using a mix of **uppercase, lowercase, numbers, an
 ---
 
 ## 📂 Folder Structure
-
+```
 random-password-generator-js/
 │
 ├── index.html
@@ -35,7 +35,7 @@ random-password-generator-js/
 │ ├── copy.png
 │ └── thunderbolt.png
 └── README.md
-
+```
 ---
 
 ## 🧪 How to Use
@@ -63,7 +63,7 @@ random-password-generator-js/
 ## 📬 Connect with Me
 
 - 💼 [GitHub](https://github.com/mukulnegi2004)
-- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-75b741374/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/mukul-negi-431039378/)
 - 📫 Email: mannunegi126@gmail.com
 
 ---
